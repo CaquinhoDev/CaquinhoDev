@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Pedro Henrique
-🌍 I'm from Brazil, currently residing in São Paulo
-🎓 I'm a student in the 8th grade of Fundamental School, with a passion for Systems Analysis and Development
-💻 I have advanced knowledge in programming, especially in Python and JavaScript (Node.js), and I'm currently exploring TypeScript
-🤖 I'm working on a project that utilizes an AI developed by me with ChatterBot
+# 👋 Hi, I'm Pedro Henrique<br>
+🌍 I'm from Brazil, currently residing in São Paulo<br>
+🎓 I'm a student in the 8th grade of Fundamental School, with a passion for Systems Analysis and Development<br>
+💻 I have advanced knowledge in programming, especially in Python and JavaScript (Node.js), and I'm currently exploring TypeScript<br>
+🤖 I'm working on a project that utilizes an AI developed by me with ChatterBot<br>
 🌱 I'm constantly learning and expanding my coding skills<br>
 
 
